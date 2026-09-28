@@ -5,7 +5,7 @@ def calculate_percentage(part, total):
     return (part / total) * 100
 
 
-if __name__ == "__main__":
+if __name__ == "__mai__":
     completed = 37
     total = 50
 
